@@ -14,7 +14,7 @@ Wilujeung sumping 👋
   <img src="https://github-readme-stats.vercel.app/api?username=Rextouin-R&show_icons=true&theme=ambient_gradient&locale=id" alt="Rextouin-R GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rextouin-R&theme=algolia&local=su" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rextouin-R&theme=algolia&layout=compact&local=su" alt="Top Langs"/>
 </p>
 
 </p>
