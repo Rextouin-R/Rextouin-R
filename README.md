@@ -1,11 +1,11 @@
-<h2><p align="center">Kawit urang sunda<p/><h2/>
+<h2 align="center">Kawit urang sunda<h2/>
 <!---
 Rextouin-R/Rextouin-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h4><p align="center">
+<h4 align="center">
 Wilujeung sumping 👋
-</p><h4/>
+<h4/>
 
 ### 📊 GitHub Stats:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rextouin-R&theme=algolia&locale=su" alt="GitHub Streak" /></a>
