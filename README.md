@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 📊 GitHub Stats:
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rextouin-R&theme=tokyonight&locale=id" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rextouin-R&theme=tokyonight&locale=su" alt="GitHub Streak" /></a>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/recitativonika/Rextouin-R/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/recitativonika/recitativonika/output/github-contribution-grid-snake.svg">
