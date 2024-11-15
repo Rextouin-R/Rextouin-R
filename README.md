@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h4 align="center">
 Wilujeung sumping 👋
 <h4/>
-<h8 align="center">Mangga bilih bade bade nimbung ngariung sa'sami urang sunda.<h8/>
+<p align="center">Mangga bilih bade bade nimbung ngariung sa'sami urang sunda.<p/>
 
 ### 📊 GitHub Stats:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rextouin-R&theme=algolia&locale=su" alt="GitHub Streak" /></a>
