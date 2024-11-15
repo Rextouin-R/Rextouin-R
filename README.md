@@ -3,7 +3,6 @@
 Rextouin-R/Rextouin-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Rextouin-R&theme=tokyonight&locale=id)](https://git.io/streak-stats)
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=Wilujeung+sumping;Hapunteun+upami+aya+script+nu+jore;Kusabab+padameulan+abdi+seu'eur;Sanes+pokus+na+iyeu+wungkul;Jeung+nyuhunkeun+di+hapunteun;Upami+abdi+telat+ngawaleur;Hatur+nuhun+🙏" alt="Typing SVG" />
 </div>
@@ -26,7 +25,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/recitativonika/recitativonika/output/github-contribution-grid-snake.svg">
 </picture>
 </picture>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rextouin-R&theme=algolia&locale=su" alt="GitHub Streak" /></a>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rextouin-R&show_icons=true&theme=ambient_gradient&locale=id" alt="Rextouin-R GitHub Stats"/>
 </p>
