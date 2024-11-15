@@ -20,7 +20,7 @@ Wilujeung sumping 👋
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/recitativonika/recitativonika/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Static Badge](https://img.shields.io/badge/WhatsApp-+6285811387947-Link?style=for-the-badge&logo=WhatsApp&logoColor=white&logoSize=auto&color=green)]()
+<p align="left"> <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 
 ## Nimbrung na telegram  ♾︎ 
 [![Static Badge](https://img.shields.io/badge/Telegram-Airdrop◾unlimited-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/UNLXairdop)
