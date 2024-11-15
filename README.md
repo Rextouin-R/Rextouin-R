@@ -17,14 +17,9 @@ Wilujeung sumping 👋
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/recitativonika/recitativonika/output/github-contribution-grid-snake.svg">
 </picture>
 
+[![Static Badge](https://img.shields.io/badge/Telegram-Airdrop◾unlimited-Link?style=for-the-badge&logo=WhatsApp&logoColor=white&logoSize=auto&color=blue)](https://t.me/UNLXairdop)
 
-### 🤝 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/ramadhvni" target="_blank"><img src="Image 2021-11-01 at 19.51.28.jpeg.&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/ramadhvni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://medium.com/@dntyk" target="_blank"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://www.hackerrank.com/rxmxdhxni" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%232EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-</p>
+
 
 
 
