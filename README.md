@@ -12,6 +12,10 @@ Bilih bade nimbrung ngariung sa'sami urang sunda sok mangga.
    <a href="https://www.hackerrank.com/rxmxdhxni" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%232EC866?style=flat&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
    <a href="https://x.com/rextouin" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%2312100E?style=flat&logo=x&logoColor=white" alt="Twitter"/></a>
 
+#### Nimbrung na telegram:
+[![Static Badge](https://img.shields.io/badge/Telegram-Airdrop◾unlimited-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/UNLXairdop)
+
+
 ### 📊 GitHub Stats:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rextouin-R&theme=algolia&locale=su" alt="GitHub Streak" /></a>
 <p align="center">
