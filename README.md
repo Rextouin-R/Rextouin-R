@@ -32,9 +32,5 @@ Wilujeung sumping 👋
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rextouin-R&theme=algolia&layout=compact" alt="Top Langs"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rextouin-R&show_icons=true&theme=algolia" alt="Rextouin-R GitHub Stats"/>
-</p>
-
 ## Nimbrung na telegram  ♾︎ 
 [![Static Badge](https://img.shields.io/badge/Telegram-Airdrop◾unlimited-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/UNLXairdop)
