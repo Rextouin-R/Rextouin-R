@@ -19,6 +19,8 @@ Wilujeung sumping 👋
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/recitativonika/recitativonika/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/recitativonika/recitativonika/output/github-contribution-grid-snake.svg">
 </picture>
+#### 🤝 Kontak talatah
+<p align="left">
   <a href="https://instagram.com/ramadhvni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
    <a href="https://linkedin.com/in/ramadhvni" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=flat&logo=telegram&logoColor=white" alt="LinkedIn"/></a>
    <a href="https://www.hackerrank.com/rxmxdhxni" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%232EC866?style=flat&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
