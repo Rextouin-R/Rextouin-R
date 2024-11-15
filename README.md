@@ -1,11 +1,8 @@
-<h2 align="center">Kawit urang sunda<h2/>
+<h2 align="center">Wilujeung sumping<h2/>
 <!---
 Rextouin-R/Rextouin-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h4 align="center">
-Wilujeung sumping 👋
-<h4/>
 Bilih bade nimbrung ngariung sa'sami urang sunda sok mangga.
 
 ### 📊 GitHub Stats:
