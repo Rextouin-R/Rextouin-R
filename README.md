@@ -1,10 +1,10 @@
-<h2 align="center">Wilujeung sumping<h2/>
+<h2 align="center">👋 abdi Rextouin-R<h2/>
 <!---
 Rextouin-R/Rextouin-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=Passionate+Developer;Always+learning+new+things;Don't+follow+me%2C+I'm+lost+too!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=Wilujeung+sumping;Always+learning+new+things;Don't+follow+me%2C+I'm+lost+too!" alt="Typing SVG" />
 </div>
 
 #### 🤝 Kontak talatah
