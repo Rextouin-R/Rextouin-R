@@ -27,3 +27,10 @@ Bilih bade nimbrung ngariung sa'sami urang sunda sok mangga.
    <a href="https://t.me/REXTOUIN-R/" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=flat&logo=telegram&logoColor=white" alt="LinkedIn"/></a>
    <a href="https://www.hackerrank.com/rxmxdhxni" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%232EC866?style=flat&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
    <a href="https://x.com/rextouin" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%2312100E?style=flat&logo=x&logoColor=white" alt="Twitter"/></a>
+
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
