@@ -7,6 +7,7 @@ You can click the Preview link to take a look at your changes.
 Wilujeung sumping 👋
 </p>
 
+### 📊 GitHub Stats:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rextouin-R&theme=algolia&locale=su" alt="GitHub Streak" /></a>
 </p>
 <picture align="center">
@@ -19,8 +20,6 @@ Wilujeung sumping 👋
 <h1 align="center">Hi, ....... 👋</h1>
 <h3 align="center">A passionate full-stack developer from Banjarmasin, South Kalimantan.</h3>
 
-### 📫 How to reach me:
-- **ramadhani@myself.com**
 
 ### 🤝 Connect with me:
 <p align="left">
