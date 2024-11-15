@@ -21,7 +21,7 @@ Wilujeung sumping 👋
 </picture>
 
   <a href="https://instagram.com/ramadhvni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://instagram.com/ramadhvni" target="_blank"><img src="https://img.telegram.io/badge/-Instagram-%23E4405F?style=flat&logo=telegram&logoColor=blue" alt="Telegram"/></a>
+   <a href="https://linkedin.com/in/ramadhvni" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=flat&logo=telegram&logoColor=white" alt="LinkedIn"/></a>
 
 ## Nimbrung na telegram  ♾︎ 
 [![Static Badge](https://img.shields.io/badge/Telegram-Airdrop◾unlimited-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/UNLXairdop)
