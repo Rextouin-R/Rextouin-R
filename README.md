@@ -16,23 +16,8 @@ Wilujeung sumping 👋
 </picture>
 
 
-
 <h1 align="center">Hi, ....... 👋</h1>
 <h3 align="center">A passionate full-stack developer from Banjarmasin, South Kalimantan.</h3>
-
-
-
-<p align="center">
-  <a href="https://github.com/dante4rt"><img src="https://komarev.com/ghpvc/?username=dante4rt&style=flat-square" alt="Profile views"/></a>
-</p>
-
----
-
-### 🌱 I’m currently learning:
-- **TypeScript and Solidity**
-
-### 👨‍💻 All of my projects are available at:
-- [https://ramadhvni.com/](https://ramadhvni.com/)
 
 ### 📫 How to reach me:
 - **ramadhani@myself.com**
