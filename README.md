@@ -1,6 +1,4 @@
-<h2><p align="center">
-  Kawit urang sunda<p/>
-  <h2/>
+<h2><p align="center">Kawit urang sunda<p/><h2/>
 <!---
 Rextouin-R/Rextouin-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
