@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h4 align="center">
 Wilujeung sumping 👋
 <h4/>
+<h8 align="center">Mangga bilih bade bade nimbung ngariung sa'sami urang sunda.<h8/>
 
 ### 📊 GitHub Stats:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rextouin-R&theme=algolia&locale=su" alt="GitHub Streak" /></a>
@@ -15,10 +16,6 @@ Wilujeung sumping 👋
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/recitativonika/recitativonika/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/recitativonika/recitativonika/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-<h1 align="center">Hi, ....... 👋</h1>
-<h3 align="center">A passionate full-stack developer from Banjarmasin, South Kalimantan.</h3>
 
 
 ### 🤝 Connect with me:
