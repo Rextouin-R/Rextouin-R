@@ -13,6 +13,10 @@ Wilujeung sumping 👋
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rextouin-R&show_icons=true&theme=ambient_gradient&locale=id" alt="Rextouin-R GitHub Stats"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rextouin-R&theme=algolia&local=su" alt="Top Langs"/>
+</p>
+
 </p>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/recitativonika/Rextouin-R/output/github-contribution-grid-snake-dark.svg">
