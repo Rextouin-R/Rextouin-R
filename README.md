@@ -13,10 +13,6 @@ Wilujeung sumping 👋
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rextouin-R&show_icons=true&theme=ambient_gradient&locale=id" alt="Rextouin-R GitHub Stats"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rextouin-R&theme=algolia&layout=compact&local=id" alt="Top Langs"/>
-</p>
-
 </p>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/recitativonika/Rextouin-R/output/github-contribution-grid-snake-dark.svg">
@@ -25,16 +21,6 @@ Wilujeung sumping 👋
 </picture>
 
 [![Static Badge](https://img.shields.io/badge/WhatsApp-Gustyanda_dg94-Link?style=for-the-badge&logo=WhatsApp&logoColor=white&logoSize=auto&color=green)](https://whatsapp.com/dl/)
-
-
-
-
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rextouin-R&theme=algolia&layout=compact" alt="Top Langs"/>
-</p>
 
 ## Nimbrung na telegram  ♾︎ 
 [![Static Badge](https://img.shields.io/badge/Telegram-Airdrop◾unlimited-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/UNLXairdop)
