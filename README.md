@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 
 #### Nimbrung na telegram:
-[![Static Badge](https://img.shields.io/badge/Telegram-Airdrop◾unlimited-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/UNLXairdop)
+[![Static Badge](https://img.shields.io/badge/Telegram_channel-Airdrop◾unlimited-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/UNLXairdop)
 
 
 ### 📊 GitHub Stats:
