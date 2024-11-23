@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=Wilujeung+sumping;Hapunteun+upami+aya+script+nu+jore;Kusabab+padameulan+abdi+seu'eur;Sanes+pokus+na+iyeu+wungkul;Jeung+nyuhunkeun+di+hapunteun;Upami+abdi+telat+ngawaleur;Hatur+nuhun+🙏" alt="Typing SVG" />
 </div>
 
-#### 🤝 Kontak talatah
+#### 🤝 Panutur
 <p align="left">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23E4405F?style=flat&logo=youtube&logoColor=white" alt="Youtube"/></a>
