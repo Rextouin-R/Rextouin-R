@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
    <a href="https://t.me/REXTOUIN-R/" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=flat&logo=telegram&logoColor=white" alt="LinkedIn"/></a>
-   <a href="https://www.hackerrank.com/rxmxdhxni" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%232EC866?style=flat&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%232EC866?style=flat&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
    <a href="https://x.com/rextouin" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%2312100E?style=flat&logo=x&logoColor=white" alt="Twitter"/></a>
 
 #### Nimbrung na telegram:
