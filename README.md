@@ -4,7 +4,7 @@ Rextouin-R/Rextouin-R is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=Wilujeung+sumping;Hapunteun+upami+aya+script+nu+jore;Kusabab+padameulan+abdi+seu'eur;Sanes+pokus+na+iyeu+wungkul;Jeung+nyuhunkeun+di+hapunteun;Upami+abdi+telat+ngawaleur;Hatur+nuhun+🙏" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=Abo+monyet;Hapunteun+upami+aya+script+nu+jore;Kusabab+padameulan+abdi+seu'eur;Sanes+pokus+na+iyeu+wungkul;Jeung+nyuhunkeun+di+hapunteun;Upami+abdi+telat+ngawaleur;Hatur+nuhun+🙏" alt="Typing SVG" />
 </div>
 
 #### 🤝 Tuturkeun
